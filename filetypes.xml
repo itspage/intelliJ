@@ -12,6 +12,7 @@
       <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="desc" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
