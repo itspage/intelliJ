@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'targaryen'" />
-    <option name="defaultScopeName" value="Module 'targaryen'" />
+    <option name="customScope" value="Project 'search-broker'" />
+    <option name="defaultScopeName" value="Project 'search-broker'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'targaryen'" />
+    <option name="SEARCH_SCOPE" value="Project 'search-broker'" />
   </component>
 </application>
