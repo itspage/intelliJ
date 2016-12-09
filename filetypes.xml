@@ -6,6 +6,8 @@
       <mapping ext="tfstate" type="JSON" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="test1" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
