@@ -4,6 +4,7 @@
       <mapping pattern="Dockerfile-*" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="tfstate" type="JSON" />
+      <mapping pattern="resolve-namespace" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="init" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
